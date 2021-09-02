@@ -1,5 +1,4 @@
-![Welcome!](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
+![corle-bell's GitHub stats](https://github-readme-stats.vercel.app/api?username=corle-bell&show_icons=true&theme=radical)
 <!--
 **corle-bell/corle-bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
